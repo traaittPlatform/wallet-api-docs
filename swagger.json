@@ -2058,8 +2058,8 @@
           "description": "The daemon port to sync the wallet with",
           "type": "integer",
           "format": "uint16",
-          "default": 11898,
-          "example": 11898
+          "default": 23896,
+          "example": 23896
         }
       }
     },
