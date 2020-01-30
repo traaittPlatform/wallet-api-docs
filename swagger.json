@@ -1945,7 +1945,7 @@
         {
           "properties": {
             "filename": {
-              "description": "The filename to store/load the wallet from. Note that this is relative to where turtle-walletAPI was launched from - it is recommended you use an absolute path.",
+              "description": "The filename to store/load the wallet from. Note that this is relative to where traaitt-walletAPI was launched from - it is recommended you use an absolute path.",
               "type": "string",
               "example": "mywallet.wallet"
             },
